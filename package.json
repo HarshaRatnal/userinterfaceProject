@@ -10,7 +10,7 @@
   "keywords": [
     "APP"
   ],
-  "author": "Sasi Rekha Sridhar",
+  "author": "Harsha Ratnala",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.1.3",
